@@ -2,8 +2,6 @@
 
   # Hi there, I'm Kawintorn Rodpan 👋
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&height=50&lines=Building+Personalized+AI+Systems;FastAPI+%2B+DSPy+Architect;Full-Stack+%2B+Software+Dev;Crafting+Smooth+User+Experiences)](https://git.io/typing-svg)
-
   <p align="center">
     <b>Software Developer</b> • <b>AI Builder</b> • <b>Project Manager</b>
   </p>
