@@ -6,10 +6,13 @@
     <b>Software Developer</b> • <b>AI Builder</b> • <b>Project Manager</b>
   </p>
 
-  <!-- Badges / Socials Row -->
+  <!-- Contact Row -->
   <p align="center">
-    <a href="mailto:kawintornrodpan@gmail.com"><img src="https://img.shields.io/badge/Email-kawintornrodpan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://www.youtube.com/@plawanlnwz5202"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+    ✉️ <code>kawintornrodpan@gmail.com</code>
+    <br><br>
+    <a href="https://www.youtube.com/@plawanlnwz5202" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    </a>
   </p>
 
 </div>
