@@ -38,14 +38,14 @@ Currently, I'm interested in:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
   </a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
-  </a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
