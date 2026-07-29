@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Kawintorn Rodpan (Plawan)
 
-### • AI Builder • Full-Stack Developer • Project Manager
+### • Full-Stack Developer • AI Builder • Project Manager
 
 
 <a href="https://www.youtube.com/@plawanlnwz5202">
